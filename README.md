@@ -1,11 +1,3 @@
-## Hi there 👋 I'm [SEK-Consulting](https://sek-consulting.com/) a.k.a Stefan 😁
-
-## 💻 I’m currently working on
-
-* a solidjs port of shadcn/ui using kobalte ([repo](https://github.com/sek-consulting/solid-ui-components))
-* a contact management software using solidjs ([repo](https://github.com/sek-consulting/social-crm))
-* an updated version of my portfolio website ([repo](https://github.com/sek-consulting/sek-portfolio))
-
 ## 🧰 Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
