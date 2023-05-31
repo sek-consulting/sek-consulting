@@ -1,16 +1,9 @@
-## 🧰 Languages & Tools
+## Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,tailwindcss,solidjs,astro,golang,python,php,git" />
+    <img src="https://skillicons.dev/icons?i=ts,solidjs,astro,tailwindcss,python,golang" />
   </a>
 </p>
-
-## 🏆 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sek-consulting&theme=nord" />
-</p>
-
-
 
 
 <!--
