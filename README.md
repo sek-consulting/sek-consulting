@@ -1,7 +1,7 @@
 ## Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,solidjs,astro,tailwindcss,python,golang" />
+    <img src="https://skillicons.dev/icons?i=solidjs,svelte,astro,golang,python" />
   </a>
 </p>
 
